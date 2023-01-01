@@ -1,6 +1,6 @@
--- This file was generated using Luraph Obfuscator v13.6.2
+-- This file was generated using หี Obfuscator v4.0
 
--- [[
+--[[
   Key System Bypass By Najimi#8104 dont patch
   Skidter Hub XD
 ]]
