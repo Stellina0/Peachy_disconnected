@@ -1,1 +1,0 @@
-return "Curve Nahee";
