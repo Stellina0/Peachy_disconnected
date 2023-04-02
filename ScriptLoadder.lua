@@ -4,4 +4,6 @@ elseif game.PlaceId == 10941751747 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/xDestinyx/Peachy/main/AnimeFightingTycoon.lua'))();
 elseif game.PlaceId == 11874473440 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/xDestinyx/Peachy/main/CarFactory.lua'))();
+elseif game.PlaceId == 6284583030 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/xDestinyx/Peachy/main/PetSimulatorX.lua'))();
 end;
